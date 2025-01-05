@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Joshua Alhassan
-- 👀 I’m interested in Frontend Engineering and DevRel
-- 🌱 I’m currently learning Vue.js
+- 👀 I’m a Software Engineer and Developer Advocate
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me @josh-script on Twitter
 
