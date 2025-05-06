@@ -47,7 +47,7 @@ Currently:
 `JavaScript` `Svelte` `HTML` `CSS` `React.js` `Node.js`
 
 **Tools & Platforms:**  
-`GitHub` `VSCode` `Slack` `Google Colab` `Yarn` `React Testing Library`
+`GitHub` `VSCode` `Slack` `Google Colab` `Yarn` `React Testing Library` `JSDoc` `StoryBook`
 
 **Soft Skills:**  
 Public Speaking · Team Leadership · Program Management · DevRel Strategy · Community Engagement
