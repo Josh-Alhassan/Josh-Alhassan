@@ -9,81 +9,71 @@ Josh-Alhassan/Josh-Alhassan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# **✨ Welcome to My GitHub Universe! ✨**  
+# 👋 Hi, I'm Joshua Abel Alhassan
 
-**Hi there! I'm Joshua Abel Alhassan ,** a passionate developer who loves turning ideas into reality through code. Whether it's building sleek web applications, diving into AI, or automating the boring stuff, I'm always excited to learn and create.  
+🧰 Frontnend Developer | 🚀 Community Builder | 🎓 Tech Educator | 🧠 DevRel Enthusiast   
+🌍 Empowering African Youth Through Technology | 🇳🇬 Based in Lokoja, Nigeria  
 
-```javascript
-const aboutMe = {
-  pronouns: "he" | "Him",
-  code: ["JavaScript", "TypeScript", "HTML/CSS"],
-  tools: ["React", "React", "Svelte", "Node.js", "TailwindCSS", "Git", "VS Code"],
-  learning: ["Next.js"]
-};
-```
+---
 
-## **🚀 What I'm Working On**  
+## 🧩 About Me
 
-- 🔥 Building **[Project Name]** – A [brief description].  
-- 🌱 Learning **Next.js & GraphQL** to build faster, scalable apps.  
-- 🤖 Experimenting with **AI/ML** to solve real-world problems.  
-- ✍️ Writing **tech blogs** to share what I learn.  
+I’m a **multi-passionate tech advocate** and educator working at the intersection of **community building, technical training**, and **developer advocacy**. I lead and contribute to initiatives that empower individuals and communities with technology—whether through structured cohorts, community events, or developer-focused programs.
 
-## **🛠️ My Tech Stack**  
+Currently:
+- 📌 **Lead Frontend Developer** at **at Synoloops Solutions**
+- 💼 **Frontend Developer** at **Edustipend**,
+- 💼 **Community Manager** at **NexaScale**
+- 🍺 **Lead Manager** at **BeerJS Lokoja** – the first JavaScript community of its kind in Africa!
+- 🧭 **Founder** of **CodeScript** – mentoring young techies with clarity and roadmap
 
-| **Category**       | **Technologies**                                                                 |
-|--------------------|---------------------------------------------------------------------------------|
-| **Frontend**       | React, Next.js, TailwindCSS, Redux, Framer Motion                              |
-| **Backend**        | Node.js, Express, Django, Flask, Firebase                                       |
-| **Databases**      | MongoDB, PostgreSQL, Supabase                                                   |
-| **DevOps & Cloud** | Docker, AWS, Vercel, Netlify                                                    |
-| **Other Tools**    | Git, VS Code, Figma, Postman, Jira                                              |
+> 💡 *I believe that knowledge shared is power multiplied.*
 
-## **📈 GitHub Stats**  
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+## 🌟 Highlights
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)  
+- 🎤 **Spoken at tech events**, webinars, and community forums on topics ranging from DSA to Blockchain Adoption in Africa
+- 📚 **Created beginner-friendly curriculums** for:
+  - JavaScript Frontend Engineering
+  - Developer Relations & Advocacy
+- 🧪 Building real-world projects with **React.js**, **Redux**, **Node.js**, and community tech stacks
 
-## **🔥 Streak & Trophies**  
+---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)  
+## 🛠️ Tech Stack
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&margin-w=15&no-frame=true)  
+**Languages & Frameworks:**  
+`JavaScript` `Svelte` `HTML` `CSS` `React.js` `Node.js`
 
-## **📝 Latest Blog Posts**  
+**Tools & Platforms:**  
+`GitHub` `VSCode` `Slack` `Google Colab` `Yarn` `React Testing Library`
 
-- [How I Built a Real-Time Chat App with Socket.io](https://yourblog.com)  
-- [10 VS Code Extensions That Boosted My Productivity](https://yourblog.com)  
-- [Why I Switched from REST to GraphQL](https://yourblog.com)  
+**Soft Skills:**  
+Public Speaking · Team Leadership · Program Management · DevRel Strategy · Community Engagement
 
-## **🎨 Fun Projects**  
+---
 
-| Project | Description | Tech Stack |  
-|---------|-------------|------------|  
-| **[Project 1](link)** | A brief description | React, Node, MongoDB |  
-| **[Project 2](link)** | Another cool project | Python, Flask, OpenAI |  
-| **[Project 3](link)** | Something fun! | Next.js, TailwindCSS |  
+## 📈 What I’m Up To
 
-## **💬 Let's Connect!**  
+- ⚡ Driving Edustipend’s **Support a Learner** fundraising campaign
+- 🧪 Hosting weekly webinars on **Data Structures & Algorithms**
+- 🎯 Preparing my **business plan and proposal** for **Metro-Dive**, a tech-enabled transportation startup
 
-I love meeting fellow developers, discussing ideas, and collaborating on exciting projects.  
+---
 
-📫 **How to reach me:**  
-- [Twitter](https://twitter.com/yourhandle)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- [Portfolio](https://yourportfolio.com)  
-- [Email](mailto:youremail@example.com)  
+## 💬 Let's Connect
 
-### **⚡ Fun Fact**  
-*"I once wrote a script that sent my friend 1000 memes in an hour. They still haven't forgiven me."* 😆  
+- 🐦 [Twitter (X)](https://twitter.com/@josh_script) – Join my tech convos  
+- 🌐 [LinkedIn](https://linkedin.com/in/joshua-abel-alhassan) – Let’s collaborate  
+- 📩 Drop me a message – I’m always up for collaborations, mentorship, or dev rel chats!
 
----  
+---
 
-**Thanks for stopping by!** 🚀 Keep coding, stay curious, and let's build something amazing together.  
+## 🧠 Motto
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)  
+> *"Community is the backbone of innovation. Build people, and you’ll build the future."*
 
----  
+---
 
-⭐ **From [Your Name] with ❤️**
+📌 *Pinned Projects Coming Soon… Stay tuned for my open-source community tools and curriculum templates!*
