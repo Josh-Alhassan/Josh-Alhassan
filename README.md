@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 # 👋 Hi, I'm Joshua Abel Alhassan
 
-🧰 Frontnend Developer | 🚀 Community Builder | 🎓 Tech Educator | 🧠 DevRel Enthusiast   
-🌍 Empowering African Youth Through Technology | 🇳🇬 Based in Lokoja, Nigeria  
+🧰 Frontnend Developer | 🚀 Community Builder | 🎓 Tech Educator | 🧠 DevRel   
+🌍 Empowering Africans Through Technology | 🇳🇬 Based in Lokoja, Nigeria  
 
 ---
 
@@ -67,6 +67,7 @@ Public Speaking · Team Leadership · Program Management · DevRel Strategy · C
 - 🐦 [Twitter (X)](https://twitter.com/@josh_script) – Join my tech convos  
 - 🌐 [LinkedIn](https://linkedin.com/in/joshua-abel-alhassan) – Let’s collaborate  
 - 📩 Drop me a message – I’m always up for collaborations, mentorship, or dev rel chats!
+- 📌 [My web Corner](https://alhassanjoshua.surge.sh/)
 
 ---
 
@@ -74,6 +75,3 @@ Public Speaking · Team Leadership · Program Management · DevRel Strategy · C
 
 > *"Community is the backbone of innovation. Build people, and you’ll build the future."*
 
----
-
-📌 *Pinned Projects Coming Soon… Stay tuned for my open-source community tools and curriculum templates!*
